@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**chenyuxin0619/chenyuxin0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Self-Introduction
+I am a student and entrepreneur from China with a keen curiosity about the world. I have a strong interest in programming, AI, and their applications. Below, you will find my educational background and research interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+### University College London (UCL), London, UK
+- **MSc Responsible Finance and Alternative Assets**
+- Faculty of Engineering Sciences, Jun. 2024
+- Relevant Courses: Fundamentals of Company Valuation, Corporate Finance, Alternative Asset and Portfolio Construction, Quantitative Environmental Economics and Finance, Public Finance and Innovation, Sustainability and Digital Finance, Data Analytics and Financial Strategies, Impact Finance and Social Entrepreneurship
+
+### University College London (UCL), London, UK
+- **BSc Mathematics**
+- First-class Degree with an average score of 72/100, Jun. 2023
+- Relevant Courses: Micro/Macroeconomics, Econometrics, Mathematical Ecology, Geophysical Fluid Dynamics, Financial Mathematics, Probability, Linear Algebra
+
+## Research Interests
+- Digital transformation
+- Environmental, Social, and Governance (ESG)
+- Digital Cultural Communication
+- Digital Economy
