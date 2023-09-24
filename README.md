@@ -1,7 +1,6 @@
 
-
 # Self-Introduction
-I am a student and entrepreneur from China with a keen curiosity about the world. I have a strong interest in programming, AI, and their applications. Below, you will find my educational background and research interests.
+I am a student and entrepreneur from China with a keen curiosity about the world. I have a strong interest in programming, AI, VR, AR, and Green Finance, along with their applications. Below, you will find my educational background and research interests.
 
 ## Education
 
@@ -16,6 +15,10 @@ I am a student and entrepreneur from China with a keen curiosity about the world
 - Relevant Courses: Micro/Macroeconomics, Econometrics, Mathematical Ecology, Geophysical Fluid Dynamics, Financial Mathematics, Probability, Linear Algebra
 
 ## Research Interests
+- AI (Artificial Intelligence)
+- VR (Virtual Reality)
+- AR (Augmented Reality)
+- Green Finance (绿色金融)
 - Digital transformation
 - Environmental, Social, and Governance (ESG)
 - Digital Cultural Communication
