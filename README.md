@@ -23,3 +23,32 @@ I am a student and entrepreneur from China with a keen curiosity about the world
 - Environmental, Social, and Governance (ESG)
 - Digital Cultural Communication
 - Digital Economy
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>我的个人介绍和减碳行动</title>
+</head>
+<body>
+    <header>
+        <h1>欢迎访问我的个人网页</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>个人介绍</h2>
+            <p>您可以在<a href="https://www.linkedin.com/in/cecilia-chen-ucl-cyxnb-cc15666202656/">我的LinkedIn个人资料</a>上找到我的详细介绍。</p>
+        </section>
+
+        <section>
+            <h2>减碳行动</h2>
+            <p>我正在积极参与减碳行动。了解更多关于我的减碳行动，请访问<a href="https://www.linkedin.com/in/cecilia-chen-ucl-cyxnb-cc15666202656/">这里</a>。</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 我的个人网页</p>
+    </footer>
+</body>
+</html>
