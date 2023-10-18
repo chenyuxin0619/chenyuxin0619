@@ -11,16 +11,17 @@ I am a student and entrepreneur from China with a keen curiosity about the world
 
 ### University College London (UCL), London, UK
 - **BSc Mathematics**
-- First-class Degree with an average score of 72/100, Jun. 2023
+- First-class Degree, Jun. 2023
 - Relevant Courses: Micro/Macroeconomics, Econometrics, Mathematical Ecology, Geophysical Fluid Dynamics, Financial Mathematics, Probability, Linear Algebra
 
 ## Research Interests
 - AI (Artificial Intelligence)
 - VR (Virtual Reality)
 - AR (Augmented Reality)
-- Green Finance (绿色金融)
+- Green Finance
 - Digital transformation
 - Environmental, Social, and Governance (ESG)
 - Digital Cultural Communication
 - Digital Economy
+- Sustainability
 
